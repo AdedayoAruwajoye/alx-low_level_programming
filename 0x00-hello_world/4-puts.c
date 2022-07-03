@@ -1,7 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - This is my first C code, yay!
+ * main  -Entry point
+ *
+ * Return: Always 0 (Succes)
  */
 
 int main(void)
