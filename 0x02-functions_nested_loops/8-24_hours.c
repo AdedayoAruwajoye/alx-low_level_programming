@@ -1,6 +1,6 @@
 #include "main.h"
 /**
-* This code prints the 24 hours of Jack Bauer's day
+* main - This code prints the 24 hours of Jack Bauer's day
 */
 void jack_bauer(void)
 {
