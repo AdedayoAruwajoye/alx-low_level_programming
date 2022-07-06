@@ -1,7 +1,12 @@
 #include "main.h"
 /**
-* main - This code prints the 24 hours of Jack Bauer's day
+* main - Entry point
+*
+* Description: "This code prints the 24 hours of Jack Bauer's day"
+*
+* Return
 */
+
 void jack_bauer(void)
 {
 	int i, j;
