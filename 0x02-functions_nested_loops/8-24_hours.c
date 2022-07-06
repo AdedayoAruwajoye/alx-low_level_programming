@@ -7,6 +7,7 @@
 * Return
 */
 
+/* This function prints 24 hours of Jack's day*/
 void jack_bauer(void)
 {
 	int i, j;
