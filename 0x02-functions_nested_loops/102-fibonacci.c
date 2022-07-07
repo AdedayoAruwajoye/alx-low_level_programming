@@ -35,10 +35,10 @@
 	                n = p;
 	                i = j;
 	                j = k;
-	                if (p >= 100)
-	                        printf("%lu%lu", k, p);
-	                else
-	                        printf("%lu0%lu", k, p);
+	                	if (p >= 100)
+	                        	printf("%lu%lu", k, p);
+	        	        else
+	               			printf("%lu0%lu", k, p);
 	        		if (count != 98)
 					printf(", ");
 		        		count++;
