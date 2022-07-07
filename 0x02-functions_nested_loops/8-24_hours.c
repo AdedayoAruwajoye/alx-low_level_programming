@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* main - Entry point
+* jack_bauer - Entry point
 *
 * Description: "This code prints the 24 hours of Jack Bauer's day"
 *
