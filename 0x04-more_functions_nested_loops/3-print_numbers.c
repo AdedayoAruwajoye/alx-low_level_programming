@@ -8,7 +8,6 @@
  */
 int print_numbers(int a)
 {
-	while (a >= 48 && a <= 57)
+	for (a >= 48; a <= 57; a++)
 		_putchar(a);
-	a++
 }
