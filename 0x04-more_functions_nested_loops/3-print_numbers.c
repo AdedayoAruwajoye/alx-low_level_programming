@@ -3,11 +3,11 @@
 
 /**
  * print_numbers - This program prints the numbers 0 - 9
- * @a: This is the integer to be utilized
- * Return: 0 (Always)
+ * Return: The numbers from 0 to 9
  */
-int print_numbers(int a)
+void print_numbers(void)
 {
 	for (a >= 48; a <= 57; a++)
 		_putchar(a);
+	_putchar('\n');
 }
