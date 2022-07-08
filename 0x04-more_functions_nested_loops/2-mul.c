@@ -5,7 +5,7 @@
  * nul - This program multiplies two integers
  * @a: First integer
  * @b: Second integer
- * Return: 0 (Always)
+ * Return: The result of the multiplication
  */
 int nul(int a, int b)
 {
