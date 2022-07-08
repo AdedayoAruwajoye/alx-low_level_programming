@@ -2,7 +2,6 @@
 
 /**
  * print_numbers - This program prints the numbers 0 - 9
- * 
  */
 
 void print_numbers(void)
