@@ -3,7 +3,7 @@
 
 /**
  * _isdigit - This program checks for a digit between 0 and 9
- * @c: - This is the parameter to be check
+ * @c: - This is the parameter to be checked
  *
  * Return: 1 if c is a digit and 0 otherwise
  */
