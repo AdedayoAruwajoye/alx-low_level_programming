@@ -2,12 +2,12 @@
 #include <stdio.h>
 
 /**
- * nul - This program multiplies two integers
+ * mul - This program multiplies two integers
  * @a: First integer
  * @b: Second integer
  * Return: The result of the multiplication
  */
-int nul(int a, int b)
+int mul(int a, int b)
 {
 	return (a * b);
 }
