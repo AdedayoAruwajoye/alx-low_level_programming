@@ -4,7 +4,6 @@
 /**
  * print_rev - This ptints a string in reverse + a new line
  * @s: This is the variable that helps me count the string
- * @n: This is the variable I used to count backwards
  * Return: Nothing
  */
 
