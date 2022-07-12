@@ -7,13 +7,12 @@
  * Return: 0 (Always)
  */
 
-int n;
-int *p;
-
-int main(*p)
+int main(void)
 {
+	int n;
+	int *p;
+
 	n = 40;
 	*p = &n;
 	return (0);
-
 }
