@@ -2,17 +2,18 @@
 #include <stdio.h>
 
 /**
- * print_rev - This prints a string in reverse followed by a new line
- * @str: This is the variable that helps me count the string
- * @n: This is the variable that helps me count backwards
+ * print_rev - This ptints a string in reverse + a new line
+ * @s: This is the variable that helps me count the string
+ * @n: This is the variable I used to count backwards
  * Return: Nothing
  */
 
-void print_rev(char *str)
+void print_rev(char *s)
 {
 	int i;
+	int n;
 
-	for (i = 0; str[i] != '\0'; i++)
+	for (i = 0; s[i] != '\0'; i++)
 	{}
 	for (n = i - 1; n >= 0; n--)
 	{
