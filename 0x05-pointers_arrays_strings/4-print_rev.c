@@ -2,9 +2,9 @@
 #include <stdio.h>
 
 /**
- *print_rev - This prints a string in reverse followed by a new line
- *@str: This is the variable that helps me count the string
- *@n: This is the variable that helps me count backwards
+ * print_rev - This prints a string in reverse followed by a new line
+ * @str: This is the variable that helps me count the string
+ * @n: This is the variable that helps me count backwards
  * Return: Nothing
  */
 
