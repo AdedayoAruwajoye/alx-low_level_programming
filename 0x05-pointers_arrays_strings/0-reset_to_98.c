@@ -10,6 +10,7 @@
 int main(void)
 {
 	int n;
+	int *p;
 
 	n = 40;
 	p = &n;
