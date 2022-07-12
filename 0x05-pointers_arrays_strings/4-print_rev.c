@@ -2,18 +2,20 @@
 #include <stdio.h>
 
 /**
- *_puts - This is a function that prints a string followed by a new line
+ *print_rev - This prints a string in reverse followed by a new line
  *@str: This is the variable that helps me count the string
  * Return: Nothing
  */
 
-void _puts(char *str)
+void print_rev(char *str)
 {
 	int i;
 
 	for (i = 0; str[i] != '\0'; i++)
+	{}
+	for (n = i - 1; n >= 0; n--)
 	{
-		_putchar(str[i]);
+		_putchar(s[n]);
 	}
 	_putchar('\n');
 }
