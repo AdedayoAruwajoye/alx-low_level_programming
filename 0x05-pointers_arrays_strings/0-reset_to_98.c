@@ -2,14 +2,15 @@
 #include <stdio.h>
 
 /**
- * main - Entry point
+ * reset_to_98 - This code takes a pointer and updates its value
+ * @n: This is the first integer
+ * @*p: This is my dereferencing
  *
- * Return: 0 (Always)
+ * Return: Nothing
  */
 
-int main(void)
+void reset_to_98(int *n)
 {
-	int n;
 	int *p;
 
 	n = 40;
