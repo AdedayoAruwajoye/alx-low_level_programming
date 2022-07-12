@@ -14,6 +14,6 @@ int main(void)
 
 	n = 40;
 	p = &n;
-	*p = 98
-	return (0);
+	*p = 98;
 }
+	return (0);
