@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- *_strlen: This is a function that returns a string length
+ *_strlen - This is a function that returns a string length
  *@s: This is the veriable that helps me count the string
  * Return: Nothing
  */
