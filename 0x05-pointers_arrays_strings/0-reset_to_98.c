@@ -10,9 +10,9 @@
 int main(void)
 {
 	int n;
-	int *p;
 
 	n = 40;
-	*p = &n;
+	p = &n;
+	*p = 98
 	return (0);
 }
